@@ -23,4 +23,9 @@ The dataset contains 400 positive, 400 medium, and 400 negative reviews for each
 ### [dataSet3: Reddit comment sentiment](https://github.com/YufeiJ1ao/Group1DataAnalysis/tree/main/dataSet3)
 #### Reddit
 Data from the subreddit tags under anti-hero, collected comments and discussions. Scraped text were filtered based on sentiment word.
-### [Three datasets merged and analy](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Three%20datasets%20joint%20analysis.ipynb)
+### [Three dataSets merged and analysis](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Three%20datasets%20joint%20analysis.ipynb)
+This Jupyter Notebook contains the full pipeline for analyzing sentiment trends in audience perception of antiheroes before and after the COVID-19 pandemic. The analysis is based on three datasets from Bilibili, Weibo, Douban and Reddit.
+
+This notebook serves as a comprehensive analysis tool ，applying Mann-Whitney U Test, Kolmogorov-Smirnov Test, Chi-Square Test, and effect size calculations (Cliff’s Delta, Hedges’ g) to assess sentiment shifts."
+
+
