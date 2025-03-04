@@ -23,4 +23,4 @@ The dataset contains 400 positive, 400 medium, and 400 negative reviews for each
 ### [dataSet3: Reddit comment sentiment](https://github.com/YufeiJ1ao/Group1DataAnalysis/tree/main/dataSet3)
 #### Reddit
 Data from the subreddit tags under anti-hero, collected comments and discussions. Scraped text were filtered based on sentiment word.
-### [Three datasets merged and analyzed](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Three%20datasets%20merged%20and%20analyzed..ipynb)
+### [Three datasets merged and analy](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Three%20datasets%20joint%20analysis.ipynb)
