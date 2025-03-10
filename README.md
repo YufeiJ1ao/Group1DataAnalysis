@@ -35,6 +35,7 @@ This notebook serves as a comprehensive analysis tool ，applying Mann-Whitney U
 
 ### [Extra analysis](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Analysis%20of%20Different%20Platforms.ipynb)
 During the process of writing the report, more visualizations are needed.
+
 ---
 ## Anti-Hero Sentiment DNA Visualization
 
