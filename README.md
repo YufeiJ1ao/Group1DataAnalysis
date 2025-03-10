@@ -32,6 +32,9 @@ The final section at the bottom provides a comprehensive joint analysis combinin
 This Jupyter Notebook contains the full pipeline for analyzing sentiment trends in audience perception of antiheroes before and after the COVID-19 pandemic. The analysis is based on three datasets from Bilibili, Weibo, Douban and Reddit.
 
 This notebook serves as a comprehensive analysis tool ，applying Mann-Whitney U Test, Kolmogorov-Smirnov Test, Chi-Square Test, and effect size calculations (Cliff’s Delta, Hedges’ g) to assess sentiment shifts."
+
+### **Extra analysis**(https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Analysis%20of%20Different%20Platforms.ipynb)
+During the process of writing the report, more visualizations are needed.
 ---
 ## Anti-Hero Sentiment DNA Visualization
 
