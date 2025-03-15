@@ -1,12 +1,17 @@
-# Group1DataAnalysis
-## Group 1 Data Representation, Analysis and Visualisation
-In times of upheaval, stories become mirrors through which we perceive the world. Once seen as outliers, have antiheroes now claimed a new place in the hearts of audiences? Using data as our guide, we trace the emotional undercurrents before and after the pandemic to uncover the evolving perception of antihero figures in collective consciousness.
+# The Rise of Anti-Heroes: A Data-Driven Analysis
+**Critical Data Group 1** | 2025 
+---
+##  Introduction: The Narrative in Data 
+In times of upheaval, stories become mirrors through which we perceive the world. Once seen as outliers, have anti-heroes now claimed a new place in the hearts of audiences?  
 
-We believe that data is more than just numbers—it is the imprint of emotions. Through sentiment analysis, keyword extraction, topic modeling, and time-series forecasting, we seek to answer a fundamental question: Has societal change propelled antiheroes into the mainstream?
+This project explores the **cultural evolution of anti-heroes**, analyzing over **80,000 social media discussions** across multiple platforms before and after the COVID-19 pandemic.  
 
-This is not just an analysis of data but an interpretation of narratives. After the pandemic, we continue searching for heroes, but perhaps our heroes are no longer perfect ideals. Instead, they may be the ones who navigate the gray areas, standing at the crossroads of light and shadow.
-###
-##
+Through **sentiment analysis, keyword extraction, topic modeling, and time-series forecasting**, we seek to answer a fundamental question:  
+*Has societal change propelled anti-heroes into the mainstream?*  
+
+This is not just an analysis of data but an interpretation of narratives. After the pandemic, we continue searching for heroes, but perhaps our heroes are no longer perfect ideals. Instead, they may be the ones who navigate the gray areas, standing at the crossroads of light and shadow.  
+
+---
 
 ### [dataSet1: Bilibili & Weibo comment sentiment](https://github.com/YufeiJ1ao/Group1DataAnalysis/tree/main/dataSet1)
 #### Bilibili
@@ -54,3 +59,10 @@ An interactive 3D data visualization illustrating the evolution of public sentim
   - Adjust rotation speed for customized viewing.
   - Zoom and drag to explore different perspectives.
 ---
+## 👥 Contributors  
+Thanks to all the contributors of this project!  
+
+<a href="https://github.com/YufeiJ1ao/Group1DataAnalysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YufeiJ1ao/Group1DataAnalysis" />
+</a>
+
