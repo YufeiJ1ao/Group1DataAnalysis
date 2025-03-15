@@ -59,10 +59,26 @@ An interactive 3D data visualization illustrating the evolution of public sentim
   - Adjust rotation speed for customized viewing.
   - Zoom and drag to explore different perspectives.
 ---
+## Further Reading  
+For more details, check out our blog posts:  
+- **H1: The Shadow of the Pandemic: The Rise of Anti-Heroes in an Age of Uncertainty**  
+  [Read the article](https://criticaldatagroup1.wordpress.com/2025/03/06/the-shadow-of-the-pandemic-the-rise-of-anti-heroes-in-an-age-of-uncertainty/)  
+- **H0: The Eternal Gray Area: Why the Pandemic Didn’t Change the Essential Appeal of Anti-Heroes**  
+  [Read the article](https://criticaldatagroup1.wordpress.com/2025/03/06/the-eternal-gray-area-why-the-pandemic-didnt-change-the-essential-appeal-of-anti-heroes/)
+## References  
+Tokgöz, Y. (2016). *The rise of the anti-hero: Pushing network boundaries in the contemporary U.S. television.* Middle East Technical University.  
+DiPaolo, M. (2025). *Criminals as Heroes: Problems and Pedagogy in Popular Culture.* Dialogue: The Interdisciplinary Journal of Popular Culture and Pedagogy, 12(1).  
+[Anti-Kahraman’ın Soykütüğü] (2025). *A Historical Genealogy of Anti-Heroes.* Ankara University Journal of the Faculty of Languages and History-Geography.  
+## About **Critical Data Group 1**  
+**Who are we?**  
+We are a research team exploring how data can decode cultural narratives. By combining **NLP, statistics, and visualization**, we uncover insights into shifting audience perceptions in digital spaces.
 ## 👥 Contributors  
 Thanks to all the contributors of this project!  
+ **Team Members**
+- **[Yuf Jiao]** 
+- **[SIQI WU]**
+- **[JUNJIE LE]**
 
 <a href="https://github.com/YufeiJ1ao/Group1DataAnalysis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=YufeiJ1ao/Group1DataAnalysis" />
 </a>
-
