@@ -62,7 +62,7 @@ An interactive 3D data visualization illustrating the evolution of public sentim
 ## Topics
 This project explores data-driven insights into anti-heroes before and after the pandemic.  
 **Keywords:**  
-`data-analysis` `sentiment-analysis` `anti-hero` `covid19` `cultural-shift` `visualization` `NLP``social-media`
+`data-analysis` `sentiment-analysis` `anti-hero` `covid19` `cultural-shift` `visualization` `NLP` `social-media`
 ## Further Reading  
 For more details, check out our blog posts:  
 - **H1: The Shadow of the Pandemic: The Rise of Anti-Heroes in an Age of Uncertainty**  
