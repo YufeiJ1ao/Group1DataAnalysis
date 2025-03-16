@@ -43,7 +43,8 @@ During the process of writing the report, more visualizations are needed.
 
 ---
 ## Dashboard & Interactive Visualizations
-Track sentiment shifts across platforms & time.[Click here to view](https://particles-animation-1.onrender.com)To provide a clearer view of sentiment trends, we created a radar visualization for sentiment distribution on Reddit and Douban. Interestingly, the post-pandemic sentiment does not show a dramatic shift towards greater acceptance of anti-heroes but rather maintains a steady positive sentiment. This suggests that the appeal of anti-heroes has been relatively stable, rather than being a direct consequence of pandemic-induced cultural shifts.*The visualization may take a few seconds to load. Please be patient.* 
+Track sentiment shifts across platforms & time.To provide a clearer view of sentiment trends, we created a radar visualization for sentiment distribution . Interestingly, the post-pandemic sentiment does not show a dramatic shift towards greater acceptance of anti-heroes but rather maintains a steady positive sentiment. This suggests that the appeal of anti-heroes has been relatively stable, rather than being a direct consequence of pandemic-induced cultural shifts.[Click here to view](https://particles-animation-1.onrender.com)*The visualization may take a few seconds to load. Please be patient.* 
+
 ## Anti-Hero Sentiment DNA Visualization
 
 An interactive 3D data visualization illustrating the evolution of public sentiment toward anti-hero characters.
