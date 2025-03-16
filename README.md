@@ -15,7 +15,7 @@ This is not just an analysis of data but an interpretation of narratives. After 
 
 ### [dataSet1: Bilibili & Weibo comment sentiment](https://github.com/YufeiJ1ao/Group1DataAnalysis/tree/main/dataSet1)
 #### Bilibili
-Extracted bullet comments (Danmu) and text-based comments from high-engagement videos.
+Extracted bullet comments (Danmaku) and text-based comments from high-engagement videos.
 Comments were filtered based on word count (longer responses preferred) and engagement metrics (high likes/upvotes) to ensure high-quality discussions.
 #### Weibo
 Collected posts and comments from trending topics related to each character.
