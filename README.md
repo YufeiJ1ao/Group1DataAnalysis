@@ -41,6 +41,19 @@ This notebook serves as a comprehensive analysis tool ，applying Mann-Whitney U
 ### [Extra analysis](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Analysis%20of%20Different%20Platforms.ipynb)
 During the process of writing the report, more visualizations are needed.So we conducted a comprehensive analysis again, which can be used as a supplement to the combined analysis of the above three data sets.
 
+### [Additional Dataset: IMDb Anti-Hero Film Analysis](https://github.com/YufeiJ1ao/Group1DataAnalysis/tree/main/imdbDataSet)
+In addition to our primary datasets (Reddit, Bilibili, Weibo, and Douban), we collected an additional dataset from IMDb, focusing on films that prominently feature anti-hero characters. This dataset includes:
+
+Film Titles (e.g., The Dark Knight, V for Vendetta, Joker, Final Fantasy VII: Advent Children)
+IMDb Ratings (User scores reflecting audience reception)
+Genres (To analyze the presence of crime, action, thriller, and morally ambiguous themes)
+Release Years (To track the evolution of anti-hero narratives over time)
+Vote Counts (To gauge audience engagement and popularity)
+Why IMDb?
+While our primary analysis focused on social media sentiment, IMDb provides another layer of insight: audience reception at the film industry level. By examining IMDb scores and audience reviews, we could explore how anti-hero narratives have evolved in cinema.
+
+Status:
+This dataset is available but has not been analyzed yet. Future work could integrate this dataset with sentiment trends to compare audience discourse with actual movie reception.
 
 ---
 ## Dashboard & Interactive Visualizations
@@ -81,7 +94,8 @@ DiPaolo, M. (2025). *Criminals as Heroes: Problems and Pedagogy in Popular Cultu
 **Who are we?**  
 We are a research team exploring how data can decode cultural narratives. By combining **NLP, statistics, and visualization**, we uncover insights into shifting audience perceptions in digital spaces.
 ## Link to Miro Board
-#### [Miro Board – Research Brainstorming & Process Documentation](https://miro.com/welcomeonboard/d1REcEZ1R0ZZNkx4UERublZpVHB6OG9hcURsWjJVR3JaWWZGUE10bnB2RUh4elpYWlpiVjhvS1hFK01VZjhqTCsrNTVZR0pGUytLK1JiNWZ6aUdyVVg1TlBKMGpYUmY0bUw5dmtlN2pScjc1dFhFOGpYZEYybVU4cEw4ditaZ3JNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=994516069345)This board captures our early research discussions, including hypothesis formation, platform selection, and data processing decisions. It provides insights into how our approach evolved and why we made key methodological choices.
+#### [Miro Board – Research Brainstorming & Process Documentation](https://miro.com/welcomeonboard/d1REcEZ1R0ZZNkx4UERublZpVHB6OG9hcURsWjJVR3JaWWZGUE10bnB2RUh4elpYWlpiVjhvS1hFK01VZjhqTCsrNTVZR0pGUytLK1JiNWZ6aUdyVVg1TlBKMGpYUmY0bUw5dmtlN2pScjc1dFhFOGpYZEYybVU4cEw4ditaZ3JNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=994516069345)
+This board captures our early research discussions, including hypothesis formation, platform selection, and data processing decisions. It provides insights into how our approach evolved and why we made key methodological choices.
 
 
 ## 👥 Contributors  
