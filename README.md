@@ -39,7 +39,8 @@ This Jupyter Notebook contains the full pipeline for analyzing sentiment trends 
 This notebook serves as a comprehensive analysis tool ，applying Mann-Whitney U Test, Kolmogorov-Smirnov Test, Chi-Square Test, and effect size calculations (Cliff’s Delta, Hedges’ g) to assess sentiment shifts."
 
 ### [Extra analysis](https://github.com/YufeiJ1ao/Group1DataAnalysis/blob/main/Analysis%20of%20Different%20Platforms.ipynb)
-During the process of writing the report, more visualizations are needed.
+During the process of writing the report, more visualizations are needed.So we conducted a comprehensive analysis again, which can be used as a supplement to the combined analysis of the above three data sets.
+
 
 ---
 ## Dashboard & Interactive Visualizations
