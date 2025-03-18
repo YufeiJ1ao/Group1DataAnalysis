@@ -80,6 +80,10 @@ DiPaolo, M. (2025). *Criminals as Heroes: Problems and Pedagogy in Popular Cultu
 ## About **Critical Data Group 1**  
 **Who are we?**  
 We are a research team exploring how data can decode cultural narratives. By combining **NLP, statistics, and visualization**, we uncover insights into shifting audience perceptions in digital spaces.
+## Link to Miro Board
+#### [Group1 Data and Visualisation](https://miro.com/welcomeonboard/d1REcEZ1R0ZZNkx4UERublZpVHB6OG9hcURsWjJVR3JaWWZGUE10bnB2RUh4elpYWlpiVjhvS1hFK01VZjhqTCsrNTVZR0pGUytLK1JiNWZ6aUdyVVg1TlBKMGpYUmY0bUw5dmtlN2pScjc1dFhFOGpYZEYybVU4cEw4ditaZ3JNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=994516069345)
+
+
 ## 👥 Contributors  
 Thanks to all the contributors of this project!  
  **Team Members**
